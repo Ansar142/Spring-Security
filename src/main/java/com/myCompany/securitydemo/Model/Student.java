@@ -1,6 +1,4 @@
-package com.myCompany.securitydemo;
-
-import lombok.*;
+package com.myCompany.securitydemo.Model;
 
 
 public class Student {
